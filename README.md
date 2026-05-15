@@ -34,6 +34,8 @@ Developed an interactive Streamlit dashboard powered by Snowpark SQL queries for
 
 ## Dashboard Preview
 go to Screenshots folder
+<img width="1250" height="233" alt="KPI Cards" src="https://github.com/user-attachments/assets/787670fa-eca3-46f1-89e4-db0b7ce77caa" />
+
 
 ---
 
