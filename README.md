@@ -33,7 +33,7 @@ Developed an interactive Streamlit dashboard powered by Snowpark SQL queries for
 ---
 
 ## Dashboard Preview
-(Add screenshots here)
+go to Screenshots folder
 
 ---
 
